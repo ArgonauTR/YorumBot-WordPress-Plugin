@@ -29,6 +29,7 @@ function yorumbot_menu()
         'yorum_yap'
     );
 
+    /*
     // Ayarlar Fonskiyonu
     add_submenu_page(
         'yorum-bot',
@@ -38,4 +39,5 @@ function yorumbot_menu()
         'Ayarlar',
         'ayarlar'
     );
+    */
 }

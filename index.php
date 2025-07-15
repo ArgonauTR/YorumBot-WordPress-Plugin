@@ -13,34 +13,36 @@
 // Menü Bilgileri
 include "menu.php";
 
-// Permalink Fonskiyonu
-include "permalink.php";
-
-// Permalink Fonskiyonu
-include "option.php";
-
-// Rastgele isimler
-include "randomname.php";
-
-// Rastgele servisler
-include "randomservice.php";
-
-
 // Ana menü sayfa içeriği
-function yorum_bot_ana_menu() {
+function yorum_bot_ana_menu()
+{
+    // Eklenti Anasayfası
     include "pages/home.php";
 }
 
 // Alt menü 1 sayfa içeriği
-function yorum_yap() {
+function yorum_yap()
+{
+    // Permalink Fonskiyonu
+    include "funcitons/permalink.php";
+
+    // Rastgele isimler
+    include "funcitons/randomname.php";
+
+    // Rastgele servisler
+    include "funcitons/randomservice.php";
+
+    // Rastgele servisler
+    include "funcitons/randompost.php";
+
+    //Eklenti Yorum Kısmı
     include "pages/yorumyap.php";
 }
-
+/*
 // Alt menü 2 sayfa içeriği
-function ayarlar() {
+function ayarlar()
+{
+    // Eklenti ayarlar kısmı
     echo '<div class="wrap"><h1>Alt Menü 2</h1><p>Bu ikinci alt menü sayfasıdır.</p></div>';
 }
-
-
-
-//include "body.php";
+*/

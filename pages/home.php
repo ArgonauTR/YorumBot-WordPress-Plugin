@@ -1,7 +1,7 @@
 <div class="wrap">
-    <div style="background: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 0 8px rgba(0,0,0,0.1); max-width: 800px;">
+    <div style="background: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 0 8px rgba(0, 0, 0, 0.1); max-width: 800px;">
 
-        <h1> YorumBot 3.0 Hakkında</h1>
+        <h1> YorumBot 3.1 Hakkında</h1>
         <p><strong>Versiyon:</strong> 3.0</p>
         <p><strong>Tanıtım:</strong> Kendi yazılarınıza, hızlı, organik ve rastgele biçimde yorum girmenizi sağlayan bir eklentidir.</p>
         <p><strong>Geliştirici:</strong> Osman ÖZER</p>
