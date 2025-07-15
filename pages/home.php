@@ -15,7 +15,7 @@
         <p>Merhaba, PHP ile ilginç ve işe yarar şeyler yazmaya çalışıyorum. Tüm çalışmalarımı <a href="https://github.com/ArgonauTR" target="_blank">Github</a> deposundan ücretsiz indirip kullanabilirsiniz.</p>
         <p>Kod dışında metin yazmayı severim, eskiden makale yazıyordum ama artık kitap yazıyorum. Merak edenler <a href="https://www.kitapyurdu.com/yazar/osman-ozer/274645.html" target="_blank">buradan</a> bakabilir.</p>
         <p><a href="https://www.r10.net/profil/128431-argonaut.html" target="_blank">R10.net</a> ya da <a href="mailto:osmanozer4@gmail.com" target="_blank">E-Mail</a> üzerinden bana ulaşabilir. İlk müsait olduğum anda yanıt veririm.</p>
-        
+
         <hr>
 
         <p><i> İyi Bloglar...</i></p>
